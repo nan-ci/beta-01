@@ -15,13 +15,12 @@ But don't worry, even if you aren't selected to this beta, this won't affect you
 
 We need you to be **fully available** during the whole week (monday to sunday), if not, please let someone else do the beta.
 
-To validate your entry, create a github account if you don't have one already and [make an issue](https://github.com/nan-ci/beta-01/issues/new) containing your email.
+To validate your entry, create a github account if you don't have one already and [make an issue](https://github.com/nan-ci/beta-01/issues/new) containing your email
 
 Please fill those requirements, otherwise your issue will be rejected:
 - You may not add more than one email per issue
 - Make sure to use the same email you used to register the Beta (the email where you received these instructions)
 
-
-We will finally send a confirmation email to the first 15 **correct** issues.
+We will finally send a confirmation to the emails from the first 15 **correct** issues.
 
 Good luck!
