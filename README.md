@@ -8,7 +8,7 @@ Inscription for the first BETA of NaN !
 > Travailler en anglais c'est ouvrir votre travail sur le monde entier.
 
 
-Since we had a huge amount of inscriptions, you have to go through this final selection step.  
+Since we had a large amount of inscriptions, you have to go through this final selection step.  
 But don't worry, even if you aren't selected to this beta, this won't affect your chances to be a student.
 
 **Beta sessions are simply test phases for us & the school, this is not the official selection process**
