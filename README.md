@@ -2,7 +2,7 @@
 Inscription for the first BETA of NaN !
 
 > le texte qui suit est en anglais  
-> L'anglais est un atoux pour trouver des informations de qualité sur internet.  
+> L'anglais est un atout pour trouver des informations de qualité sur internet.  
 > Les sujets et exercises de NaN seront en anglais.  
 > Il vous sera demandé de coder en anglais.  
 > Travailler en anglais c'est ouvrir votre travail sur le monde entier.
