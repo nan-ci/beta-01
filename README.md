@@ -17,7 +17,7 @@ We need you to be fully available, if not, please let someone else do the beta.
 
 To validate your entry, create a github account if you don't have one already and [make an issue](https://github.com/nan-ci/beta-01/issues/new) containing your email
 
-We will then send a confirmation email to the 15 first correct issues.
+We will then send a confirmation to the email from the first 15 correct issues.
 
 - You may not add more than one email per issue
 - Make sure you use the email you recieved this link from otherwise your issue will be ignored
